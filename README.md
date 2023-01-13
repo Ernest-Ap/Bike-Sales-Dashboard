@@ -26,4 +26,6 @@ Line Chart x3, Bar Chart and Column Chart.
 <br> <br>
 <img src="bdh_img/2avein.png" width="800">
 
+<img src="bdh_img/3customab.png" width="800">
+
 
