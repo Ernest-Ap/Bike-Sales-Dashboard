@@ -32,3 +32,11 @@ Line Chart x3, Bar Chart and Column Chart.
 
 <img src="bdh_img/5cpb.png" width="800">
 
+## Dashboard filter settings with Cars 0 filter, Region Europe filter and Marital Status Married filter
+
+<img src="bdh_img/bikesda.png" width="900">
+
+### Customers from Europe with 0 cars and married travel mostly from 0-2 miles on their commutes. Average income 34,524 who purchased a bike. Europe and married customers purchased 42 bikes. Middle age range was the highest with 36 purchases. Overall most customer purchases under these filter settings, with male and female was a combination of 56%. So this group of customers is more likely to purchase a bike. 
+
+
+
