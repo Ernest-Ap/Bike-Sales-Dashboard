@@ -22,3 +22,5 @@ Software Used: Microsoft Excel
 Charts Used: 
 Line Chart x3, Bar Chart and Column Chart.
 
+<img src="bdh_img/1customc.png" width="800">
+
