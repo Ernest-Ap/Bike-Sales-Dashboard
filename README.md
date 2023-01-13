@@ -1,6 +1,7 @@
 # Bike-Sales-Dashboard
 
-## Bike Customer Data
+## Bike Sales Dashboard 
+
 <img src="bdh_img/bdh.png" width="600">
 
 Bike store owner wants to know some information about the customers. To help maintain sales and grow profits. 
