@@ -8,7 +8,7 @@
 
 ### In this report I will analyse the data of the bike store owner's customers, the owner needs this data to help maintain and discover ways to increase sales. 
 
-I will compare: 
+### I will compare: 
 
 <li>Customers that purchase bikes with those who decided not to purchase a bike throughout this report.
 <li>I analysed customer commutes. 
@@ -39,7 +39,8 @@ Line Chart x3, Bar Chart and Column Chart.
 ### Customers from Europe with 0 cars and married travel mostly from 0-2 miles on their commutes. Average income 34,524 who purchased a bike. Europe and married customers purchased 42 bikes. Middle age range was the highest with 36 purchases. Overall most customer purchases under these filter settings, with male and female was a combination of 56%. So this group of customers is more likely to purchase a bike. 
 
 ## Summary
-In this report I analysed: 
+
+### In this report I analysed: 
 
 <li>Customers that purchase bikes with those who decided not to purchase a bike throughout this report.
 <li>I analysed customer commutes. 
