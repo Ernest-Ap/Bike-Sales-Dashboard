@@ -6,7 +6,7 @@
 
 ### Interactive dashboard where you can filter number of cars that a customer own/s e.g. 0, 1, 2, 3, 4. You can filter by region to view Europe, United Kingdom and USA customers. Also you can filter by Marital Status, with options of married or single. 
 
-### In this report I will analyse the data of a Bike business customers, wanting to view the data of their customers purchasing their bikes. To help maintain and discover ways to increase sales. 
+### In this report I will analyse the data of a Bike business customers, wanting to view the data of customers purchasing their bikes. To help maintain and discover ways to increase sales. 
 
 ### I will compare: 
 
