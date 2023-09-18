@@ -22,11 +22,11 @@ Software Used: Microsoft Excel
 Charts Used: 
 Line Chart x3, Bar Chart and Column Chart.
 
-<img src="bdh_img/1customc.png" width="800">
+<img src="bdh_img/1customm.png" width="800">
 <br> <br>
-<img src="bdh_img/2avein.png" width="800">
+<img src="bdh_img/2aveic.png" width="800">
 
-<img src="bdh_img/3customab.png" width="800">
+<img src="bdh_img/3customa.png" width="800">
 <br> <br>
 <img src="bdh_img/4crm.png" width="800">
 
